@@ -1,2 +1,2 @@
 # PortfolioWeb
-Personal Portfolio Web
+Personal Portfolio Web by Steven Morison
